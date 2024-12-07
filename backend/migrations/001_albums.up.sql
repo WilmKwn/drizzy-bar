@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS albums;
+
+CREATE TABLE IF NOT EXISTS albums (
+    album_name VARCHAR PRIMARY KEY,
+    album_year VARCHAR NOT NULL
+);
