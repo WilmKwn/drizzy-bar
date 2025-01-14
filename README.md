@@ -2,11 +2,6 @@
 
 Vote on the best Drake lyrics and see what other people think too
 
-* Login / Sign Up
-* Create rooms (password or no-password)
-* Enter rooms
-* Queue videos (YouTube, Twitch, custom files)
-
 ## Project Screen Shot(s)
 
 ## Tech Stack
