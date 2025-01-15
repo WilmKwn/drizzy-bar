@@ -27,3 +27,8 @@ To Start Server:
 
 To Visit App:
 `localhost:3000/`  
+
+# Backend
+
+1. `go mod tidy`
+2. `docker compose down; docker compose up --build`
