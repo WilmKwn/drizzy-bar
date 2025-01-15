@@ -19,14 +19,9 @@ Vote on the best Drake lyrics and see what other people think too
 Clone down this repository. You will need `react`, `tailwind css`, `golang` and `docker` installed on your machine.  
 
 # Frontend
-Installation:
-`npm install`  
-
-To Start Server:
-`npm start`  
-
-To Visit App:
-`localhost:3000/`  
+1. `npm install`
+2. `npm start`
+3. `localhost:3000/`  
 
 # Backend
 
