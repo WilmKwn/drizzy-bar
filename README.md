@@ -16,7 +16,7 @@ Vote on the best Drake lyrics and see what other people think too
 
 ## Installation and Setup Instructions
 
-Clone down this repository. You will need `Golang` and `Docker` installed on your machine.  
+Clone down this repository. You will need `react`, `tailwind css`, `golang` and `docker` installed on your machine.  
 
 # Frontend
 Installation:
